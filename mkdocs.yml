@@ -37,4 +37,4 @@ markdown_extensions:
         permalink: '#'
 
 extra:
-    version: 0.0.2
+    version: 03-2021
