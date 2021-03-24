@@ -10,7 +10,7 @@ Still work on progress
 
 the github repo is open for contrubutions and seggusetions
 
-follow [Github opendatasets](https://github.com/RawaaMoh).
+follow [Github opendatasets](https://github.com/RawaaMoh/OpenMedicalDatasets).
 
 <!-- ## Usage
 
