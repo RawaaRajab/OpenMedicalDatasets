@@ -18,19 +18,12 @@ theme:
 
 nav:
     - About: index.md
-    # - Customization: customization.md
-    - Websites:
-        - General datasets: General.md
-        - Sepecific datasets:
-            - EEG: EEG.md
-            - EMG: EMG.md
-            - ECG: ECG.md
-            - MRI: MRI.md
-        # - Sample Page A: sample-a.md
-        # - Sample Subfolder:
-        #     - Sample Subpage A1: sample-a1.md
-        #     - Sample Subpage A2: sample-a2.md
-        # - Sample Page B: sample-b.md
+    - General datasets: General.md
+    - Sepecific datasets:
+        - EEG: EEG.md
+        - EMG: EMG.md
+        - ECG: ECG.md
+        - MRI: MRI.md
 
 markdown_extensions:
     - toc:
