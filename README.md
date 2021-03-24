@@ -1,7 +1,7 @@
-# OpenMedicalDatasets
+## OpenMedicalDatasets
 Your place for all medical datasets through the internet
 
-# To do:
+## To do:
 * add eeg datasets 
 * add emg datasets
 * add mri datasets
