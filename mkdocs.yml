@@ -2,7 +2,7 @@ site_name: 'Open Medical Datasets'
 site_description: 'A website focused on collecting all the medical websites into one place.'
 site_author: 'RawaaRajab'
 
-repo_url: https://github.com/RawaaMoh
+repo_url: https://github.com/RawaaMoh/OpenMedicalDatasets
 
 theme:
     name: null
