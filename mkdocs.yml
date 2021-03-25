@@ -18,11 +18,12 @@ theme:
 
 nav:
     - About: index.md
-    - General datasets: General.md
-    - Sepecific datasets:
+    - Medical datasets: General.md
+    - Signal related datasets:
         - EEG: EEG.md
         - EMG: EMG.md
         - ECG: ECG.md
+    - Image related datasets:
         - MRI: MRI.md
 
 markdown_extensions:
