@@ -21,3 +21,7 @@
 ## StarPlus fMRI data
 <!-- 12 -->
 [StarPlus fMRI data](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-81/www/)
+
+## Open stanford MRI dataset
+<!-- 10 -->
+[OpenfMRI](https://exhibits.stanford.edu/data/browse/openfmri-datasets)
