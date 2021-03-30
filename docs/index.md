@@ -8,6 +8,6 @@ Still work on progress :)
 
 ## Github repo
 
-the github repo is open for contrubutions and seggusetions
+the github repo is open for contrubutions and suggestions.
 
 Check [Github opendatasets](https://github.com/RawaaMoh/OpenMedicalDatasets).
