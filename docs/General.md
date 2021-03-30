@@ -1,8 +1,9 @@
 # General medical datasets
 
-## TCIA
+## The Cancer Imaging Archive
 <!-- 1 -->
-[TCIA](https://www.cancerimagingarchive.net/) 
+The Cancer Imaging Archive ([TCIA](https://www.cancerimagingarchive.net/)): is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. 
+You can also Submit Your Data, Many TCIA datasets are submitted by the user community.
 
 ## US gov Data
 <!-- 2 -->
