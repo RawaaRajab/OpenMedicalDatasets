@@ -13,19 +13,18 @@ You can also Submit Your Data, Many TCIA datasets are submitted by the user comm
 <!-- 2 -->
 [US gov data](https://www.data.gov/): The home of the U.S. Government’s open data, you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations.
 
-## IEEE database
+## IEEE dataport
 <!-- 3 -->
-[IEEE database](https://ieee-dataport.org/)
+[IEEE dataport](https://ieee-dataport.org/): Easily store and access hundreds of datasets, including big data datasets, through IEEE's dataset storage and dataset search platform, DataPort.
 
-## UCI
+<!-- check it -->
+## University of California Irvine dataset repository
 <!-- 4 -->
-[UCI](https://archive.ics.uci.edu/ml/datasets.php)
+University of California Irvine ([UCI](https://archive.ics.uci.edu/ml/datasets.php)): UCI Machine Learning Repository.
 
 ## PhysioNet
 <!-- 5 -->
 [PhysioNet](https://physionet.org/)
-
-
 
 ## OpenData EU
 <!-- 9 -->
@@ -39,10 +38,6 @@ You can also Submit Your Data, Many TCIA datasets are submitted by the user comm
 <!-- 11 -->
 [BOLD5000](https://bold5000.github.io/)
 
-## StarPlus fMRI data
-<!-- 12 -->
-[StarPlus fMRI data](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-81/www/)
-
 ## Cam-Can
 <!-- 13 -->
 [Cam-can](https://www.cam-can.org/)
@@ -50,7 +45,6 @@ You can also Submit Your Data, Many TCIA datasets are submitted by the user comm
 ## archer
 <!-- 14 -->
 [Archer-Soft](https://archer-soft.com/blog/10-best-healthcare-data-sets-examples)
-
 
 ## Health data
 <!--  -->
@@ -60,6 +54,6 @@ You can also Submit Your Data, Many TCIA datasets are submitted by the user comm
 <!--  -->
 [Broad institue](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 
-## Google dataset
+## Google dataset research tool
 <!--  -->
-[Google dataset](https://datasetsearch.research.google.com/)
+[Google dataset](https://datasetsearch.research.google.com/): The Google Cloud Public Datasets Program hosts copies of structured and unstructured data to make it easier for users to discover, access, and utilize public data ...

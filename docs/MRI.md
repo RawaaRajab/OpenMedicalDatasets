@@ -1,4 +1,4 @@
-# MRI datasets
+# MRI & fMRI datasets
 
 ## openfMRI 
 <!-- 1 -->
@@ -17,3 +17,7 @@
 ## MRI data
 <!-- 8 -->
 [MRI data](http://mridata.org/)
+
+## StarPlus fMRI data
+<!-- 12 -->
+[StarPlus fMRI data](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-81/www/)
