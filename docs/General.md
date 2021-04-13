@@ -3,6 +3,9 @@
 ## OpenNeuro
 [OpenNeuro](https://openneuro.org/): A free and open platform for sharing MRI, MEG, EEG, iEEG, ECoG, and ASL data.
 
+## Figshare
+https://figshare.com/
+
 ## The Cancer Imaging Archive
 The Cancer Imaging Archive ([TCIA](https://www.cancerimagingarchive.net/)): is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. 
 You can also Submit Your Data, Many TCIA datasets are submitted by the user community.
