@@ -5,7 +5,10 @@
 
 ## PhysioNet
 [PhysioNet](https://physionet.org/about/database/): is a repository of freely-available medical research data, managed by the MIT Laboratory for Computational Physiology.
-<!-- Suggested by [Dr. Mehmet Basaran](https://web.itu.edu.tr/mehmetbasaran/) -->
+
+<!-- Suggested jointly by 
+[Res. Asst. Reyhan Hosavci](http://rgurleyen.fsm.edu.tr/Biyografi)
+[Dr. Mehmet Basaran](https://web.itu.edu.tr/mehmetbasaran/) -->
 ## BNCI Horizon
 [BNCI Horizon](http://bnci-horizon-2020.eu/database/data-sets): the datasets were seprated by disease.
 
