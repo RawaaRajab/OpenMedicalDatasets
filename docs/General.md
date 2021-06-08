@@ -3,8 +3,14 @@
 ## OpenNeuro
 [OpenNeuro](https://openneuro.org/): A free and open platform for sharing MRI, MEG, EEG, iEEG, ECoG, and ASL data.
 
+## PhysioNet
+[PhysioNet](https://physionet.org/about/database/): is a repository of freely-available medical research data, managed by the MIT Laboratory for Computational Physiology.
+<!-- Suggested by [Dr. Mehmet Basaran](https://web.itu.edu.tr/mehmetbasaran/) -->
+## BNCI Horizon
+[BNCI Horizon](http://bnci-horizon-2020.eu/database/data-sets): the datasets were seprated by disease.
+
 ## Figshare
-https://figshare.com/
+[Figshare](https://figshare.com/): cloud solutions for publishers. figshare enables you to host large amounts of data in your online articles with no impact on your infrastructure.
 
 ## The Cancer Imaging Archive
 The Cancer Imaging Archive ([TCIA](https://www.cancerimagingarchive.net/)): is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. 
@@ -19,9 +25,6 @@ You can also Submit Your Data, Many TCIA datasets are submitted by the user comm
 <!-- check it -->
 ## University of California Irvine dataset repository
 University of California Irvine ([UCI](https://archive.ics.uci.edu/ml/datasets.php)): UCI Machine Learning Repository.
-
-## PhysioNet
-[PhysioNet](https://physionet.org/): is a repository of freely-available medical research data, managed by the MIT Laboratory for Computational Physiology.
 
 ## EU Open Data Portal
 The [EU Open Data Portal](https://data.europa.eu/euodp/en/home): is the point of access to public data published by the EU institutions, agencies and other bodies. Information can be used and reused for commercial or non-commercial purposes. The portal is a key instrument of the EU open data strategy.
